@@ -1,0 +1,14 @@
+.repository {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .repository h3 {
+    margin-top: 0;
+  }
+  
+  .filters {
+    margin-bottom: 20px;
+  }
+  
